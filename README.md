@@ -1,2 +1,2 @@
-# MOOC-Learning-Data-Structure-
-excises and assignments from MOOC data structure lesson 
+# MOOC-Learning-Data-Structure
+exercises and assignments from MOOC data structure lesson 
